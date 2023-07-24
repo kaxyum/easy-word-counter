@@ -1,0 +1,19 @@
+{
+  "name": "easy-word-counter",
+  "version": "1.0.0",
+  "description": "count the number of word in a text",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaxyum/easy-word-counter.git"
+  },
+  "author": "kaxyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaxyum/easy-word-counter/issues"
+  },
+  "homepage": "https://github.com/kaxyum/easy-word-counter#readme"
+}
